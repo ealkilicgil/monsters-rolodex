@@ -23,8 +23,14 @@
   color: #61dafb;
 }
 
+h1 {
+    font-family: 'Bigelow Rules', cursive;
+    font-size:xx-large;
+    color:#0cca04;
+
+}
 @keyframes App-logo-spin {
-  from {
+    from {
     transform: rotate(0deg);
   }
   to {
